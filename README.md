@@ -50,3 +50,8 @@ el tipo:
 
 ## Cómo ejecutar las pruebas
 Clic derecho sobre la carpeta `test` > Run As > JUnit Test.
+
+## Mejoras adicionales
+- Las pruebas del CSV usan una carpeta temporal, así no modifican `datos.csv`.
+- Las líneas con formato incorrecto se ignoran y el programa muestra un aviso.
+- Se eliminaron los archivos de prueba manual para dejar el proyecto limpio.
