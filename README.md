@@ -43,7 +43,7 @@ el tipo:
     CORTOMETRAJE;titulo;duracion;genero;director;mensaje;premio
 
 ## Cómo clonar y ejecutar
-1. Clonar: `git clone https://github.com/TU-USUARIO/NOMBRE-DEL-REPOSITORIO.git`
+1. Clonar: `git clone https://github.com/yagualbianca31-svg/ContenidoAudiovisualU4.git`
 2. Abrir Eclipse: File > Import > Existing Projects into Workspace.
 3. Ejecutar `src/poo/Main.java` con Run As > Java Application.
 4. Usar el menú de la consola (ver contenidos, agregar película, guardar).
